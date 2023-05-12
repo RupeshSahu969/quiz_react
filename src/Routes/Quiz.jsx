@@ -214,7 +214,7 @@ const Quiz = () => {
         </Button>
       </Flex>
     </Box>
-  );
-};
+  )
+}
 
 export default Quiz;
